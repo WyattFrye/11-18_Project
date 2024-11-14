@@ -1,5 +1,6 @@
 <?php
 //Fortnite BATTLEPASS
+// Random Edit Part II Please Work
 session_start();
 require_once 'auth.php';
 
